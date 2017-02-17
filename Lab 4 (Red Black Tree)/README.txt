@@ -10,3 +10,4 @@ Sources Used:
 2) http://stackoverflow.com/questions/16257761/difference-between-red-black-trees-and-avl-trees
 3) http://stackoverflow.com/questions/13852870/red-black-tree-over-avl-tree
 4) https://www.quora.com/Whats-the-difference-between-AVL-trees-and-Red-Black-trees
+5) https://attractivechaos.wordpress.com/2008/10/02/comparison-of-binary-search-trees/
