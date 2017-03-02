@@ -7,4 +7,4 @@ Instructions:
 * To run the tests, you could also type "python -m unittest -v" in the command line.
 
 Sources Used:
-1) Data Structures and Algorithms in Python ?- Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
+1) Data Structures and Algorithms in Python - Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
